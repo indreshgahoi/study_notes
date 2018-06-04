@@ -27,7 +27,7 @@
 * [Google File System](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 * [FaceBook Photo Store](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
 * [Dynamo DB Deep Dive](https://www.youtube.com/watch?v=ggDIat_FZtA)
-* [Dynamo Paper](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+* [Dynamo Paper] (https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 
 #### Design Pattern
 * [OOD Design](http://www.oodesign.com/)
